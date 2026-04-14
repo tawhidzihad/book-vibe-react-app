@@ -9,7 +9,7 @@ const Banner = () => {
 					
 				/>
 				<div className='text-center lg:text-left'>
-					<h1 className="text-5xl font-bold capitalize">Books to freshen up your bookshelf</h1>
+					<h1 className="text-5xl font-bold capitalize">Books to freshen up your bookshelf!!</h1>
 					<button className="btn btn-success mt-5 text-white">View The List</button>
 				</div>
 			</div>
